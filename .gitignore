@@ -1,0 +1,11 @@
+index-temp.html
+.fuse_hidden
+.directory
+.Trash-*
+.nfs*
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
